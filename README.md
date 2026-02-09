@@ -25,6 +25,11 @@ Posterior a ello, realizamos la base de datos donde se almacenaran los registros
 
 <img width="844" height="546" alt="image" src="https://github.com/user-attachments/assets/95cf2ccf-73f9-4e84-ada8-72c4cce3318e" />
 
+Seguidamente hacemos pruebas para que veamos que salga bien, una vez terminado cargamos nuestros repositorios en infinityfree para cargar nuestro proyecto
+
+<img width="1919" height="978" alt="image" src="https://github.com/user-attachments/assets/2651ec4c-4ed0-4e13-8b7d-4bfddb854775" />
+
+
 
 
   - [Captura de pantalla](#captura-de-pantalla)
