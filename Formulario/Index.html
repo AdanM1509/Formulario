@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact Us</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Contact Us</h1>
+        
+        <form id="contactForm">
+            <div class="form-row">
+                <div class="form-group">
+                    <label>First Name <span class="required">*</span></label>
+                    <input type="text" id="firstName" name="firstName">
+                    <div class="error-message" id="firstNameError">This field is required</div>
+                </div>
+                <div class="form-group">
+                    <label>Last Name <span class="required">*</span></label>
+                    <input type="text" id="lastName" name="lastName">
+                    <div class="error-message" id="lastNameError">This field is required</div>
+                </div>
+            </div>
+
+            <div class="form-group">
+                <label>Email Address <span class="required">*</span></label>
+                <input type="email" id="email" name="email">
+                <div class="error-message" id="emailError">Please enter a valid email address</div>
+            </div>
+
+            <div class="form-group">
+                <label>Query Type <span class="required">*</span></label>
+            </div>
+
+            <div class="radio-group" id="radioGroup">
+                <div class="radio-option" id="generalOption">
+                    <input type="radio" id="general" name="queryType" value="general">
+                    <div class="radio-content">
+                        <span class="checkmark"></span>
+                        <span>General Enquiry</span>
+                    </div>
+                </div>
+                <div class="radio-option" id="supportOption">
+                    <input type="radio" id="support" name="queryType" value="support">
+                    <div class="radio-content">
+                        <span class="checkmark"></span>
+                        <span>Support Request</span>
+                    </div>
+                </div>
+            </div>
+            <div class="error-message" id="queryTypeError">Please select a query type</div>
+
+            <div class="form-group">
+                <label>Message <span class="required">*</span></label>
+                <textarea id="message" name="message"></textarea>
+                <div class="error-message" id="messageError">This field is required</div>
+            </div>
+
+            <div class="checkbox-group" id="consentGroup">
+                <input type="checkbox" id="consent" name="consent">
+                <label for="consent">I consent to being contacted by the team <span class="required">*</span></label>
+            </div>
+            <div class="error-message" id="consentError" style="margin-bottom: 24px;">To submit this form, please consent to being contacted</div>
+
+            <button type="submit">Submit</button>
+        </form>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
