@@ -15,7 +15,8 @@ Seguidamente se crea un archivo con codigos js para que tenga interaccion que en
 
 Luego creamos el archivo de styles el cual le dara formato a la interfaz del formulario poniendo el tamaño de letras, celda, y la interaccion vinculada con el script.
 
-<img width="1919" height="1008" alt="image" src="https://github.com/user-attachments/assets/1c2eb7ec-ce24-4365-8758-b191e26ab13c" />
+<img width="1919" height="1014" alt="image" src="https://github.com/user-attachments/assets/e580ae80-256c-4b5b-82da-67a83aee7b9b" />
+
 
 Seguidamente se crea el archivo con el que se vinculara al servidor php el cual almacenara los datos cuando dicho formulario se llene o le ingrese el nombre del usuario que se desee registrar
 
