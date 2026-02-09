@@ -2,7 +2,31 @@ Solución del formulario de contacto
 
 ## Tabla de contenidos
 
-- [Resumen](#resumen)
+- [Resumen]
+
+  Primeramente realiza el archivo Index que sera el indice o raiz de todo el proyecto y su terminacion html que nos permitira acceder en el navegador para su visualización.
+
+<img width="1919" height="1014" alt="image" src="https://github.com/user-attachments/assets/84dbaee5-f558-4db7-a89a-e20c79787c09" />
+
+Seguidamente se crea un archivo con codigos js para que tenga interaccion que en este caso es el formularo
+
+<img width="1919" height="1024" alt="image" src="https://github.com/user-attachments/assets/96659da1-5ff0-4055-9e3a-2f1141d69919" />
+
+
+Luego creamos el archivo de styles el cual le dara formato a la interfaz del formulario poniendo el tamaño de letras, celda, y la interaccion vinculada con el script.
+
+<img width="1919" height="1008" alt="image" src="https://github.com/user-attachments/assets/1c2eb7ec-ce24-4365-8758-b191e26ab13c" />
+
+Seguidamente se crea el archivo con el que se vinculara al servidor php el cual almacenara los datos cuando dicho formulario se llene o le ingrese el nombre del usuario que se desee registrar
+
+<img width="1919" height="1010" alt="image" src="https://github.com/user-attachments/assets/251d86d2-6d1c-4db6-b84a-037ba223d51c" />
+
+Posterior a ello, realizamos la base de datos donde se almacenaran los registros que en este caso se realizara con Xampp por medio de phpmyadmin levantando los servidores que usaremos.
+
+<img width="844" height="546" alt="image" src="https://github.com/user-attachments/assets/95cf2ccf-73f9-4e84-ada8-72c4cce3318e" />
+
+
+
   - [Captura de pantalla](#captura-de-pantalla)
   - [Enlaces](#enlaces)
 - [Autor](#autor)
