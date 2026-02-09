@@ -29,12 +29,12 @@ Seguidamente hacemos pruebas para que veamos que salga bien, una vez terminado c
 
 <img width="1919" height="978" alt="image" src="https://github.com/user-attachments/assets/2651ec4c-4ed0-4e13-8b7d-4bfddb854775" />
 
+Por ultimo podemos notar que se guardan los datos nuestra base de datos.
 
+<img width="1901" height="912" alt="image" src="https://github.com/user-attachments/assets/1d935cc1-507a-40de-bd74-c8c827d09971" />
 
-
-  - [Captura de pantalla](#captura-de-pantalla)
-  - [Enlaces](#enlaces)
-- [Autor](#autor)
+  - [Enlaces](https://tecnm.infinityfree.me/?firstName=Rocio&lastName=Nahuat&email=Rocio%40gmai.com&queryType=support&message=Hola&consent=on)
+- [Autor](Adan Adair Moo Noh)
 
 ## Resumen
 
@@ -72,13 +72,11 @@ Luego recorta/optimiza/edita tu imagen como desees, agrégala a tu carpeta de pr
 ### Enlaces
 
 - URL en GITHUB de tu proyecto:
-- URL del site:[Agrega la URL del sitio en vivo aquí](https://your-live-site-url.com)
+- URL del site:[https://github.com/AdanM1509/Formulario/tree/main/Formulario]
 
 ## Autor
 - Nombre completo: Adan Adair Moo Noh
 - N° Control: 221K0044
 - Grupo: 8B
-- Sitio  - https://github.com/AdanM1509/Formulario/tree/main/Formulario
-- Github - [@tuusuario](https://https://github.com/tuusuario)
-
-**Nota: Elimina esta nota y agrega/elimina/edita las líneas anteriores según los enlaces que desees compartir.**
+- Sitio  - [https://tecnm.infinityfree.me/?firstName=Rocio&lastName=Nahuat&email=Rocio%40gmai.com&queryType=support&message=Hola&consent=on]
+- Github - [https://github.com/AdanM1509/Formulario/tree/main/Formulario]
